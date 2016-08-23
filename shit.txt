@@ -1,3 +1,0 @@
-print ("shit happens")
-print ("hello bitch")
-print ("huy")
